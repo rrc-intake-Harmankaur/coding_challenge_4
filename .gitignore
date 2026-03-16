@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 node_modules/
+=======
+node_modules/
+dist/
+servicekey.json
+src/config/servicekey.json
+.env
+>>>>>>> 594965a (final commit)
